@@ -1,14 +1,1890 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <FMPXMLRESULT xmlns="http://www.filemaker.fr/fmpxmlresult">
  <ERRORCODE>0</ERRORCODE>
- <PRODUCT VERSION="7.0" BUILD="23/5/2002" NAME="FileMaker Pro"/>
- <DATABASE TIMEFORMAT="hh:mm:ss" LAYOUT="archeoextractor" DATEFORMAT="jj/MM/aaaa" NAME="archeoextractor"/>
+ <PRODUCT VERSION="7.0" NAME="FileMaker Pro" BUILD="23/5/2002"/>
+ <DATABASE NAME="archeoextractor" DATEFORMAT="jj/MM/aaaa" TIMEFORMAT="hh:mm:ss" LAYOUT="archeoextractor"/>
  <METADATA>
-  <FIELD EMPTYOK="OUI" MAXREPEAT="1" TYPE="TEXTE" NAME="idUs"/>
-  <FIELD EMPTYOK="OUI" MAXREPEAT="1" TYPE="TEXTE" NAME="imgName"/>
-  <FIELD EMPTYOK="OUI" MAXREPEAT="1" TYPE="TEXTE" NAME="imgFolder"/>
-  <FIELD EMPTYOK="OUI" MAXREPEAT="1" TYPE="TEXTE" NAME="imgExif"/>
+  <FIELD EMPTYOK="OUI" NAME="idUs" MAXREPEAT="1" TYPE="TEXTE"/>
+  <FIELD EMPTYOK="OUI" NAME="imgName" MAXREPEAT="1" TYPE="TEXTE"/>
+  <FIELD EMPTYOK="OUI" NAME="imgFolder" MAXREPEAT="1" TYPE="TEXTE"/>
+  <FIELD EMPTYOK="OUI" NAME="imgExif" MAXREPEAT="1" TYPE="TEXTE"/>
  </METADATA>
  <RESULTSET>
+  <ROW>
+   <COL>
+    <DATA>AUB0021</DATA>
+   </COL>
+   <COL>
+    <DATA>DSCN7358 - Copie (2).JPG</DATA>
+   </COL>
+   <COL>
+    <DATA>C:/Users/Florian/Desktop/1004</DATA>
+   </COL>
+   <COL>
+    <DATA>04/12/2012 09:11:40</DATA>
+   </COL>
+  </ROW>
+  <ROW>
+   <COL>
+    <DATA>AUB0021</DATA>
+   </COL>
+   <COL>
+    <DATA>DSCN7358 - Copie (3).JPG</DATA>
+   </COL>
+   <COL>
+    <DATA>C:/Users/Florian/Desktop/1004</DATA>
+   </COL>
+   <COL>
+    <DATA>04/12/2012 09:11:40</DATA>
+   </COL>
+  </ROW>
+  <ROW>
+   <COL>
+    <DATA>AUB0021</DATA>
+   </COL>
+   <COL>
+    <DATA>DSCN7358 - Copie (4).JPG</DATA>
+   </COL>
+   <COL>
+    <DATA>C:/Users/Florian/Desktop/1004</DATA>
+   </COL>
+   <COL>
+    <DATA>04/12/2012 09:11:40</DATA>
+   </COL>
+  </ROW>
+  <ROW>
+   <COL>
+    <DATA>AUB0021</DATA>
+   </COL>
+   <COL>
+    <DATA>DSCN7358 - Copie.JPG</DATA>
+   </COL>
+   <COL>
+    <DATA>C:/Users/Florian/Desktop/1004</DATA>
+   </COL>
+   <COL>
+    <DATA>04/12/2012 09:11:40</DATA>
+   </COL>
+  </ROW>
+  <ROW>
+   <COL>
+    <DATA>AUB0021</DATA>
+   </COL>
+   <COL>
+    <DATA>DSCN7358.JPG</DATA>
+   </COL>
+   <COL>
+    <DATA>C:/Users/Florian/Desktop/1004</DATA>
+   </COL>
+   <COL>
+    <DATA>04/12/2012 09:11:40</DATA>
+   </COL>
+  </ROW>
+  <ROW>
+   <COL>
+    <DATA>AUB0021</DATA>
+   </COL>
+   <COL>
+    <DATA>DSCN7359 - Copie (2).JPG</DATA>
+   </COL>
+   <COL>
+    <DATA>C:/Users/Florian/Desktop/1004</DATA>
+   </COL>
+   <COL>
+    <DATA>04/12/2012 09:12:02</DATA>
+   </COL>
+  </ROW>
+  <ROW>
+   <COL>
+    <DATA>AUB0021</DATA>
+   </COL>
+   <COL>
+    <DATA>DSCN7359 - Copie (3).JPG</DATA>
+   </COL>
+   <COL>
+    <DATA>C:/Users/Florian/Desktop/1004</DATA>
+   </COL>
+   <COL>
+    <DATA>04/12/2012 09:12:02</DATA>
+   </COL>
+  </ROW>
+  <ROW>
+   <COL>
+    <DATA>AUB0021</DATA>
+   </COL>
+   <COL>
+    <DATA>DSCN7359 - Copie (4).JPG</DATA>
+   </COL>
+   <COL>
+    <DATA>C:/Users/Florian/Desktop/1004</DATA>
+   </COL>
+   <COL>
+    <DATA>04/12/2012 09:12:02</DATA>
+   </COL>
+  </ROW>
+  <ROW>
+   <COL>
+    <DATA>AUB0021</DATA>
+   </COL>
+   <COL>
+    <DATA>DSCN7359 - Copie.JPG</DATA>
+   </COL>
+   <COL>
+    <DATA>C:/Users/Florian/Desktop/1004</DATA>
+   </COL>
+   <COL>
+    <DATA>04/12/2012 09:12:02</DATA>
+   </COL>
+  </ROW>
+  <ROW>
+   <COL>
+    <DATA>AUB0021</DATA>
+   </COL>
+   <COL>
+    <DATA>DSCN7359.JPG</DATA>
+   </COL>
+   <COL>
+    <DATA>C:/Users/Florian/Desktop/1004</DATA>
+   </COL>
+   <COL>
+    <DATA>04/12/2012 09:12:02</DATA>
+   </COL>
+  </ROW>
+  <ROW>
+   <COL>
+    <DATA>AUB0021</DATA>
+   </COL>
+   <COL>
+    <DATA>DSCN7360 - Copie (2).JPG</DATA>
+   </COL>
+   <COL>
+    <DATA>C:/Users/Florian/Desktop/1004</DATA>
+   </COL>
+   <COL>
+    <DATA>04/12/2012 09:13:14</DATA>
+   </COL>
+  </ROW>
+  <ROW>
+   <COL>
+    <DATA>AUB0021</DATA>
+   </COL>
+   <COL>
+    <DATA>DSCN7360 - Copie (3).JPG</DATA>
+   </COL>
+   <COL>
+    <DATA>C:/Users/Florian/Desktop/1004</DATA>
+   </COL>
+   <COL>
+    <DATA>04/12/2012 09:13:14</DATA>
+   </COL>
+  </ROW>
+  <ROW>
+   <COL>
+    <DATA>AUB0021</DATA>
+   </COL>
+   <COL>
+    <DATA>DSCN7360 - Copie (4).JPG</DATA>
+   </COL>
+   <COL>
+    <DATA>C:/Users/Florian/Desktop/1004</DATA>
+   </COL>
+   <COL>
+    <DATA>04/12/2012 09:13:14</DATA>
+   </COL>
+  </ROW>
+  <ROW>
+   <COL>
+    <DATA>AUB0021</DATA>
+   </COL>
+   <COL>
+    <DATA>DSCN7360 - Copie.JPG</DATA>
+   </COL>
+   <COL>
+    <DATA>C:/Users/Florian/Desktop/1004</DATA>
+   </COL>
+   <COL>
+    <DATA>04/12/2012 09:13:14</DATA>
+   </COL>
+  </ROW>
+  <ROW>
+   <COL>
+    <DATA>AUB0021</DATA>
+   </COL>
+   <COL>
+    <DATA>DSCN7360.JPG</DATA>
+   </COL>
+   <COL>
+    <DATA>C:/Users/Florian/Desktop/1004</DATA>
+   </COL>
+   <COL>
+    <DATA>04/12/2012 09:13:14</DATA>
+   </COL>
+  </ROW>
+  <ROW>
+   <COL>
+    <DATA>AUB0021</DATA>
+   </COL>
+   <COL>
+    <DATA>DSCN7361 - Copie (2).JPG</DATA>
+   </COL>
+   <COL>
+    <DATA>C:/Users/Florian/Desktop/1004</DATA>
+   </COL>
+   <COL>
+    <DATA>04/12/2012 09:15:45</DATA>
+   </COL>
+  </ROW>
+  <ROW>
+   <COL>
+    <DATA>AUB0021</DATA>
+   </COL>
+   <COL>
+    <DATA>DSCN7361 - Copie (3).JPG</DATA>
+   </COL>
+   <COL>
+    <DATA>C:/Users/Florian/Desktop/1004</DATA>
+   </COL>
+   <COL>
+    <DATA>04/12/2012 09:15:45</DATA>
+   </COL>
+  </ROW>
+  <ROW>
+   <COL>
+    <DATA>AUB0021</DATA>
+   </COL>
+   <COL>
+    <DATA>DSCN7361 - Copie (4).JPG</DATA>
+   </COL>
+   <COL>
+    <DATA>C:/Users/Florian/Desktop/1004</DATA>
+   </COL>
+   <COL>
+    <DATA>04/12/2012 09:15:45</DATA>
+   </COL>
+  </ROW>
+  <ROW>
+   <COL>
+    <DATA>AUB0021</DATA>
+   </COL>
+   <COL>
+    <DATA>DSCN7361 - Copie.JPG</DATA>
+   </COL>
+   <COL>
+    <DATA>C:/Users/Florian/Desktop/1004</DATA>
+   </COL>
+   <COL>
+    <DATA>04/12/2012 09:15:45</DATA>
+   </COL>
+  </ROW>
+  <ROW>
+   <COL>
+    <DATA>AUB0021</DATA>
+   </COL>
+   <COL>
+    <DATA>DSCN7361.JPG</DATA>
+   </COL>
+   <COL>
+    <DATA>C:/Users/Florian/Desktop/1004</DATA>
+   </COL>
+   <COL>
+    <DATA>04/12/2012 09:15:45</DATA>
+   </COL>
+  </ROW>
+  <ROW>
+   <COL>
+    <DATA>AUB0021</DATA>
+   </COL>
+   <COL>
+    <DATA>DSCN7362 - Copie (2).JPG</DATA>
+   </COL>
+   <COL>
+    <DATA>C:/Users/Florian/Desktop/1004</DATA>
+   </COL>
+   <COL>
+    <DATA>04/12/2012 09:16:12</DATA>
+   </COL>
+  </ROW>
+  <ROW>
+   <COL>
+    <DATA>AUB0021</DATA>
+   </COL>
+   <COL>
+    <DATA>DSCN7362 - Copie (3).JPG</DATA>
+   </COL>
+   <COL>
+    <DATA>C:/Users/Florian/Desktop/1004</DATA>
+   </COL>
+   <COL>
+    <DATA>04/12/2012 09:16:12</DATA>
+   </COL>
+  </ROW>
+  <ROW>
+   <COL>
+    <DATA>AUB0021</DATA>
+   </COL>
+   <COL>
+    <DATA>DSCN7362 - Copie (4).JPG</DATA>
+   </COL>
+   <COL>
+    <DATA>C:/Users/Florian/Desktop/1004</DATA>
+   </COL>
+   <COL>
+    <DATA>04/12/2012 09:16:12</DATA>
+   </COL>
+  </ROW>
+  <ROW>
+   <COL>
+    <DATA>AUB0021</DATA>
+   </COL>
+   <COL>
+    <DATA>DSCN7362 - Copie.JPG</DATA>
+   </COL>
+   <COL>
+    <DATA>C:/Users/Florian/Desktop/1004</DATA>
+   </COL>
+   <COL>
+    <DATA>04/12/2012 09:16:12</DATA>
+   </COL>
+  </ROW>
+  <ROW>
+   <COL>
+    <DATA>AUB0021</DATA>
+   </COL>
+   <COL>
+    <DATA>DSCN7362.JPG</DATA>
+   </COL>
+   <COL>
+    <DATA>C:/Users/Florian/Desktop/1004</DATA>
+   </COL>
+   <COL>
+    <DATA>04/12/2012 09:16:12</DATA>
+   </COL>
+  </ROW>
+  <ROW>
+   <COL>
+    <DATA>AUB0021</DATA>
+   </COL>
+   <COL>
+    <DATA>DSCN7363 - Copie (2).JPG</DATA>
+   </COL>
+   <COL>
+    <DATA>C:/Users/Florian/Desktop/1004</DATA>
+   </COL>
+   <COL>
+    <DATA>04/12/2012 09:20:57</DATA>
+   </COL>
+  </ROW>
+  <ROW>
+   <COL>
+    <DATA>AUB0021</DATA>
+   </COL>
+   <COL>
+    <DATA>DSCN7363 - Copie (3).JPG</DATA>
+   </COL>
+   <COL>
+    <DATA>C:/Users/Florian/Desktop/1004</DATA>
+   </COL>
+   <COL>
+    <DATA>04/12/2012 09:20:57</DATA>
+   </COL>
+  </ROW>
+  <ROW>
+   <COL>
+    <DATA>AUB0021</DATA>
+   </COL>
+   <COL>
+    <DATA>DSCN7363 - Copie (4).JPG</DATA>
+   </COL>
+   <COL>
+    <DATA>C:/Users/Florian/Desktop/1004</DATA>
+   </COL>
+   <COL>
+    <DATA>04/12/2012 09:20:57</DATA>
+   </COL>
+  </ROW>
+  <ROW>
+   <COL>
+    <DATA>AUB0021</DATA>
+   </COL>
+   <COL>
+    <DATA>DSCN7363 - Copie.JPG</DATA>
+   </COL>
+   <COL>
+    <DATA>C:/Users/Florian/Desktop/1004</DATA>
+   </COL>
+   <COL>
+    <DATA>04/12/2012 09:20:57</DATA>
+   </COL>
+  </ROW>
+  <ROW>
+   <COL>
+    <DATA>AUB0021</DATA>
+   </COL>
+   <COL>
+    <DATA>DSCN7363.JPG</DATA>
+   </COL>
+   <COL>
+    <DATA>C:/Users/Florian/Desktop/1004</DATA>
+   </COL>
+   <COL>
+    <DATA>04/12/2012 09:20:57</DATA>
+   </COL>
+  </ROW>
+  <ROW>
+   <COL>
+    <DATA>AUB0021</DATA>
+   </COL>
+   <COL>
+    <DATA>DSCN7364 - Copie (2).JPG</DATA>
+   </COL>
+   <COL>
+    <DATA>C:/Users/Florian/Desktop/1004</DATA>
+   </COL>
+   <COL>
+    <DATA>04/12/2012 09:21:30</DATA>
+   </COL>
+  </ROW>
+  <ROW>
+   <COL>
+    <DATA>AUB0021</DATA>
+   </COL>
+   <COL>
+    <DATA>DSCN7364 - Copie (3).JPG</DATA>
+   </COL>
+   <COL>
+    <DATA>C:/Users/Florian/Desktop/1004</DATA>
+   </COL>
+   <COL>
+    <DATA>04/12/2012 09:21:30</DATA>
+   </COL>
+  </ROW>
+  <ROW>
+   <COL>
+    <DATA>AUB0021</DATA>
+   </COL>
+   <COL>
+    <DATA>DSCN7364 - Copie (4).JPG</DATA>
+   </COL>
+   <COL>
+    <DATA>C:/Users/Florian/Desktop/1004</DATA>
+   </COL>
+   <COL>
+    <DATA>04/12/2012 09:21:30</DATA>
+   </COL>
+  </ROW>
+  <ROW>
+   <COL>
+    <DATA>AUB0021</DATA>
+   </COL>
+   <COL>
+    <DATA>DSCN7364 - Copie.JPG</DATA>
+   </COL>
+   <COL>
+    <DATA>C:/Users/Florian/Desktop/1004</DATA>
+   </COL>
+   <COL>
+    <DATA>04/12/2012 09:21:30</DATA>
+   </COL>
+  </ROW>
+  <ROW>
+   <COL>
+    <DATA>AUB0021</DATA>
+   </COL>
+   <COL>
+    <DATA>DSCN7364.JPG</DATA>
+   </COL>
+   <COL>
+    <DATA>C:/Users/Florian/Desktop/1004</DATA>
+   </COL>
+   <COL>
+    <DATA>04/12/2012 09:21:30</DATA>
+   </COL>
+  </ROW>
+  <ROW>
+   <COL>
+    <DATA>AUB0021</DATA>
+   </COL>
+   <COL>
+    <DATA>DSCN7365 - Copie (2).JPG</DATA>
+   </COL>
+   <COL>
+    <DATA>C:/Users/Florian/Desktop/1004</DATA>
+   </COL>
+   <COL>
+    <DATA>04/12/2012 09:23:06</DATA>
+   </COL>
+  </ROW>
+  <ROW>
+   <COL>
+    <DATA>AUB0021</DATA>
+   </COL>
+   <COL>
+    <DATA>DSCN7365 - Copie (3).JPG</DATA>
+   </COL>
+   <COL>
+    <DATA>C:/Users/Florian/Desktop/1004</DATA>
+   </COL>
+   <COL>
+    <DATA>04/12/2012 09:23:06</DATA>
+   </COL>
+  </ROW>
+  <ROW>
+   <COL>
+    <DATA>AUB0021</DATA>
+   </COL>
+   <COL>
+    <DATA>DSCN7365 - Copie (4).JPG</DATA>
+   </COL>
+   <COL>
+    <DATA>C:/Users/Florian/Desktop/1004</DATA>
+   </COL>
+   <COL>
+    <DATA>04/12/2012 09:23:06</DATA>
+   </COL>
+  </ROW>
+  <ROW>
+   <COL>
+    <DATA>AUB0021</DATA>
+   </COL>
+   <COL>
+    <DATA>DSCN7365 - Copie.JPG</DATA>
+   </COL>
+   <COL>
+    <DATA>C:/Users/Florian/Desktop/1004</DATA>
+   </COL>
+   <COL>
+    <DATA>04/12/2012 09:23:06</DATA>
+   </COL>
+  </ROW>
+  <ROW>
+   <COL>
+    <DATA>AUB0021</DATA>
+   </COL>
+   <COL>
+    <DATA>DSCN7365.JPG</DATA>
+   </COL>
+   <COL>
+    <DATA>C:/Users/Florian/Desktop/1004</DATA>
+   </COL>
+   <COL>
+    <DATA>04/12/2012 09:23:06</DATA>
+   </COL>
+  </ROW>
+  <ROW>
+   <COL>
+    <DATA>AUB0021</DATA>
+   </COL>
+   <COL>
+    <DATA>DSCN7366 - Copie (2).JPG</DATA>
+   </COL>
+   <COL>
+    <DATA>C:/Users/Florian/Desktop/1004</DATA>
+   </COL>
+   <COL>
+    <DATA>04/12/2012 09:23:11</DATA>
+   </COL>
+  </ROW>
+  <ROW>
+   <COL>
+    <DATA>AUB0021</DATA>
+   </COL>
+   <COL>
+    <DATA>DSCN7366 - Copie (3).JPG</DATA>
+   </COL>
+   <COL>
+    <DATA>C:/Users/Florian/Desktop/1004</DATA>
+   </COL>
+   <COL>
+    <DATA>04/12/2012 09:23:11</DATA>
+   </COL>
+  </ROW>
+  <ROW>
+   <COL>
+    <DATA>AUB0021</DATA>
+   </COL>
+   <COL>
+    <DATA>DSCN7366 - Copie (4).JPG</DATA>
+   </COL>
+   <COL>
+    <DATA>C:/Users/Florian/Desktop/1004</DATA>
+   </COL>
+   <COL>
+    <DATA>04/12/2012 09:23:11</DATA>
+   </COL>
+  </ROW>
+  <ROW>
+   <COL>
+    <DATA>AUB0021</DATA>
+   </COL>
+   <COL>
+    <DATA>DSCN7366 - Copie.JPG</DATA>
+   </COL>
+   <COL>
+    <DATA>C:/Users/Florian/Desktop/1004</DATA>
+   </COL>
+   <COL>
+    <DATA>04/12/2012 09:23:11</DATA>
+   </COL>
+  </ROW>
+  <ROW>
+   <COL>
+    <DATA>AUB0021</DATA>
+   </COL>
+   <COL>
+    <DATA>DSCN7366.JPG</DATA>
+   </COL>
+   <COL>
+    <DATA>C:/Users/Florian/Desktop/1004</DATA>
+   </COL>
+   <COL>
+    <DATA>04/12/2012 09:23:11</DATA>
+   </COL>
+  </ROW>
+  <ROW>
+   <COL>
+    <DATA>AUB0021</DATA>
+   </COL>
+   <COL>
+    <DATA>DSCN7367 - Copie (2).JPG</DATA>
+   </COL>
+   <COL>
+    <DATA>C:/Users/Florian/Desktop/1004</DATA>
+   </COL>
+   <COL>
+    <DATA>04/12/2012 09:25:00</DATA>
+   </COL>
+  </ROW>
+  <ROW>
+   <COL>
+    <DATA>AUB0021</DATA>
+   </COL>
+   <COL>
+    <DATA>DSCN7367 - Copie (3).JPG</DATA>
+   </COL>
+   <COL>
+    <DATA>C:/Users/Florian/Desktop/1004</DATA>
+   </COL>
+   <COL>
+    <DATA>04/12/2012 09:25:00</DATA>
+   </COL>
+  </ROW>
+  <ROW>
+   <COL>
+    <DATA>AUB0021</DATA>
+   </COL>
+   <COL>
+    <DATA>DSCN7367 - Copie (4).JPG</DATA>
+   </COL>
+   <COL>
+    <DATA>C:/Users/Florian/Desktop/1004</DATA>
+   </COL>
+   <COL>
+    <DATA>04/12/2012 09:25:00</DATA>
+   </COL>
+  </ROW>
+  <ROW>
+   <COL>
+    <DATA>AUB0021</DATA>
+   </COL>
+   <COL>
+    <DATA>DSCN7367 - Copie.JPG</DATA>
+   </COL>
+   <COL>
+    <DATA>C:/Users/Florian/Desktop/1004</DATA>
+   </COL>
+   <COL>
+    <DATA>04/12/2012 09:25:00</DATA>
+   </COL>
+  </ROW>
+  <ROW>
+   <COL>
+    <DATA>AUB0021</DATA>
+   </COL>
+   <COL>
+    <DATA>DSCN7367.JPG</DATA>
+   </COL>
+   <COL>
+    <DATA>C:/Users/Florian/Desktop/1004</DATA>
+   </COL>
+   <COL>
+    <DATA>04/12/2012 09:25:00</DATA>
+   </COL>
+  </ROW>
+  <ROW>
+   <COL>
+    <DATA>AUB0021</DATA>
+   </COL>
+   <COL>
+    <DATA>DSCN7368 - Copie (2).JPG</DATA>
+   </COL>
+   <COL>
+    <DATA>C:/Users/Florian/Desktop/1004</DATA>
+   </COL>
+   <COL>
+    <DATA>04/12/2012 09:34:14</DATA>
+   </COL>
+  </ROW>
+  <ROW>
+   <COL>
+    <DATA>AUB0021</DATA>
+   </COL>
+   <COL>
+    <DATA>DSCN7368 - Copie (3).JPG</DATA>
+   </COL>
+   <COL>
+    <DATA>C:/Users/Florian/Desktop/1004</DATA>
+   </COL>
+   <COL>
+    <DATA>04/12/2012 09:34:14</DATA>
+   </COL>
+  </ROW>
+  <ROW>
+   <COL>
+    <DATA>AUB0021</DATA>
+   </COL>
+   <COL>
+    <DATA>DSCN7368 - Copie (4).JPG</DATA>
+   </COL>
+   <COL>
+    <DATA>C:/Users/Florian/Desktop/1004</DATA>
+   </COL>
+   <COL>
+    <DATA>04/12/2012 09:34:14</DATA>
+   </COL>
+  </ROW>
+  <ROW>
+   <COL>
+    <DATA>AUB0021</DATA>
+   </COL>
+   <COL>
+    <DATA>DSCN7368 - Copie.JPG</DATA>
+   </COL>
+   <COL>
+    <DATA>C:/Users/Florian/Desktop/1004</DATA>
+   </COL>
+   <COL>
+    <DATA>04/12/2012 09:34:14</DATA>
+   </COL>
+  </ROW>
+  <ROW>
+   <COL>
+    <DATA>AUB0021</DATA>
+   </COL>
+   <COL>
+    <DATA>DSCN7368.JPG</DATA>
+   </COL>
+   <COL>
+    <DATA>C:/Users/Florian/Desktop/1004</DATA>
+   </COL>
+   <COL>
+    <DATA>04/12/2012 09:34:14</DATA>
+   </COL>
+  </ROW>
+  <ROW>
+   <COL>
+    <DATA>AUB0021</DATA>
+   </COL>
+   <COL>
+    <DATA>DSCN7369 - Copie (2).JPG</DATA>
+   </COL>
+   <COL>
+    <DATA>C:/Users/Florian/Desktop/1004</DATA>
+   </COL>
+   <COL>
+    <DATA>04/12/2012 09:34:19</DATA>
+   </COL>
+  </ROW>
+  <ROW>
+   <COL>
+    <DATA>AUB0021</DATA>
+   </COL>
+   <COL>
+    <DATA>DSCN7369 - Copie (3).JPG</DATA>
+   </COL>
+   <COL>
+    <DATA>C:/Users/Florian/Desktop/1004</DATA>
+   </COL>
+   <COL>
+    <DATA>04/12/2012 09:34:19</DATA>
+   </COL>
+  </ROW>
+  <ROW>
+   <COL>
+    <DATA>AUB0021</DATA>
+   </COL>
+   <COL>
+    <DATA>DSCN7369 - Copie (4).JPG</DATA>
+   </COL>
+   <COL>
+    <DATA>C:/Users/Florian/Desktop/1004</DATA>
+   </COL>
+   <COL>
+    <DATA>04/12/2012 09:34:19</DATA>
+   </COL>
+  </ROW>
+  <ROW>
+   <COL>
+    <DATA>AUB0021</DATA>
+   </COL>
+   <COL>
+    <DATA>DSCN7369 - Copie.JPG</DATA>
+   </COL>
+   <COL>
+    <DATA>C:/Users/Florian/Desktop/1004</DATA>
+   </COL>
+   <COL>
+    <DATA>04/12/2012 09:34:19</DATA>
+   </COL>
+  </ROW>
+  <ROW>
+   <COL>
+    <DATA>AUB0021</DATA>
+   </COL>
+   <COL>
+    <DATA>DSCN7369.JPG</DATA>
+   </COL>
+   <COL>
+    <DATA>C:/Users/Florian/Desktop/1004</DATA>
+   </COL>
+   <COL>
+    <DATA>04/12/2012 09:34:19</DATA>
+   </COL>
+  </ROW>
+  <ROW>
+   <COL>
+    <DATA>AUB0021</DATA>
+   </COL>
+   <COL>
+    <DATA>DSCN7370 - Copie (2).JPG</DATA>
+   </COL>
+   <COL>
+    <DATA>C:/Users/Florian/Desktop/1004</DATA>
+   </COL>
+   <COL>
+    <DATA>04/12/2012 09:34:23</DATA>
+   </COL>
+  </ROW>
+  <ROW>
+   <COL>
+    <DATA>AUB0021</DATA>
+   </COL>
+   <COL>
+    <DATA>DSCN7370 - Copie (3).JPG</DATA>
+   </COL>
+   <COL>
+    <DATA>C:/Users/Florian/Desktop/1004</DATA>
+   </COL>
+   <COL>
+    <DATA>04/12/2012 09:34:23</DATA>
+   </COL>
+  </ROW>
+  <ROW>
+   <COL>
+    <DATA>AUB0021</DATA>
+   </COL>
+   <COL>
+    <DATA>DSCN7370 - Copie (4).JPG</DATA>
+   </COL>
+   <COL>
+    <DATA>C:/Users/Florian/Desktop/1004</DATA>
+   </COL>
+   <COL>
+    <DATA>04/12/2012 09:34:23</DATA>
+   </COL>
+  </ROW>
+  <ROW>
+   <COL>
+    <DATA>AUB0021</DATA>
+   </COL>
+   <COL>
+    <DATA>DSCN7370 - Copie.JPG</DATA>
+   </COL>
+   <COL>
+    <DATA>C:/Users/Florian/Desktop/1004</DATA>
+   </COL>
+   <COL>
+    <DATA>04/12/2012 09:34:23</DATA>
+   </COL>
+  </ROW>
+  <ROW>
+   <COL>
+    <DATA>AUB0021</DATA>
+   </COL>
+   <COL>
+    <DATA>DSCN7370.JPG</DATA>
+   </COL>
+   <COL>
+    <DATA>C:/Users/Florian/Desktop/1004</DATA>
+   </COL>
+   <COL>
+    <DATA>04/12/2012 09:34:23</DATA>
+   </COL>
+  </ROW>
+  <ROW>
+   <COL>
+    <DATA>AUB0021</DATA>
+   </COL>
+   <COL>
+    <DATA>DSCN7371 - Copie (2).JPG</DATA>
+   </COL>
+   <COL>
+    <DATA>C:/Users/Florian/Desktop/1004</DATA>
+   </COL>
+   <COL>
+    <DATA>04/12/2012 09:38:39</DATA>
+   </COL>
+  </ROW>
+  <ROW>
+   <COL>
+    <DATA>AUB0021</DATA>
+   </COL>
+   <COL>
+    <DATA>DSCN7371 - Copie (3).JPG</DATA>
+   </COL>
+   <COL>
+    <DATA>C:/Users/Florian/Desktop/1004</DATA>
+   </COL>
+   <COL>
+    <DATA>04/12/2012 09:38:39</DATA>
+   </COL>
+  </ROW>
+  <ROW>
+   <COL>
+    <DATA>AUB0021</DATA>
+   </COL>
+   <COL>
+    <DATA>DSCN7371 - Copie (4).JPG</DATA>
+   </COL>
+   <COL>
+    <DATA>C:/Users/Florian/Desktop/1004</DATA>
+   </COL>
+   <COL>
+    <DATA>04/12/2012 09:38:39</DATA>
+   </COL>
+  </ROW>
+  <ROW>
+   <COL>
+    <DATA>AUB0021</DATA>
+   </COL>
+   <COL>
+    <DATA>DSCN7371 - Copie.JPG</DATA>
+   </COL>
+   <COL>
+    <DATA>C:/Users/Florian/Desktop/1004</DATA>
+   </COL>
+   <COL>
+    <DATA>04/12/2012 09:38:39</DATA>
+   </COL>
+  </ROW>
+  <ROW>
+   <COL>
+    <DATA>AUB0021</DATA>
+   </COL>
+   <COL>
+    <DATA>DSCN7371.JPG</DATA>
+   </COL>
+   <COL>
+    <DATA>C:/Users/Florian/Desktop/1004</DATA>
+   </COL>
+   <COL>
+    <DATA>04/12/2012 09:38:39</DATA>
+   </COL>
+  </ROW>
+  <ROW>
+   <COL>
+    <DATA>AUB0021</DATA>
+   </COL>
+   <COL>
+    <DATA>DSCN7372 - Copie (2).JPG</DATA>
+   </COL>
+   <COL>
+    <DATA>C:/Users/Florian/Desktop/1004</DATA>
+   </COL>
+   <COL>
+    <DATA>04/12/2012 09:41:54</DATA>
+   </COL>
+  </ROW>
+  <ROW>
+   <COL>
+    <DATA>AUB0021</DATA>
+   </COL>
+   <COL>
+    <DATA>DSCN7372 - Copie (3).JPG</DATA>
+   </COL>
+   <COL>
+    <DATA>C:/Users/Florian/Desktop/1004</DATA>
+   </COL>
+   <COL>
+    <DATA>04/12/2012 09:41:54</DATA>
+   </COL>
+  </ROW>
+  <ROW>
+   <COL>
+    <DATA>AUB0021</DATA>
+   </COL>
+   <COL>
+    <DATA>DSCN7372 - Copie (4).JPG</DATA>
+   </COL>
+   <COL>
+    <DATA>C:/Users/Florian/Desktop/1004</DATA>
+   </COL>
+   <COL>
+    <DATA>04/12/2012 09:41:54</DATA>
+   </COL>
+  </ROW>
+  <ROW>
+   <COL>
+    <DATA>AUB0021</DATA>
+   </COL>
+   <COL>
+    <DATA>DSCN7372 - Copie.JPG</DATA>
+   </COL>
+   <COL>
+    <DATA>C:/Users/Florian/Desktop/1004</DATA>
+   </COL>
+   <COL>
+    <DATA>04/12/2012 09:41:54</DATA>
+   </COL>
+  </ROW>
+  <ROW>
+   <COL>
+    <DATA>AUB0021</DATA>
+   </COL>
+   <COL>
+    <DATA>DSCN7372.JPG</DATA>
+   </COL>
+   <COL>
+    <DATA>C:/Users/Florian/Desktop/1004</DATA>
+   </COL>
+   <COL>
+    <DATA>04/12/2012 09:41:54</DATA>
+   </COL>
+  </ROW>
+  <ROW>
+   <COL>
+    <DATA>AUB0021</DATA>
+   </COL>
+   <COL>
+    <DATA>DSCN7373 - Copie (2).JPG</DATA>
+   </COL>
+   <COL>
+    <DATA>C:/Users/Florian/Desktop/1004</DATA>
+   </COL>
+   <COL>
+    <DATA>04/12/2012 09:41:58</DATA>
+   </COL>
+  </ROW>
+  <ROW>
+   <COL>
+    <DATA>AUB0021</DATA>
+   </COL>
+   <COL>
+    <DATA>DSCN7373 - Copie (3).JPG</DATA>
+   </COL>
+   <COL>
+    <DATA>C:/Users/Florian/Desktop/1004</DATA>
+   </COL>
+   <COL>
+    <DATA>04/12/2012 09:41:58</DATA>
+   </COL>
+  </ROW>
+  <ROW>
+   <COL>
+    <DATA>AUB0021</DATA>
+   </COL>
+   <COL>
+    <DATA>DSCN7373 - Copie (4).JPG</DATA>
+   </COL>
+   <COL>
+    <DATA>C:/Users/Florian/Desktop/1004</DATA>
+   </COL>
+   <COL>
+    <DATA>04/12/2012 09:41:58</DATA>
+   </COL>
+  </ROW>
+  <ROW>
+   <COL>
+    <DATA>AUB0021</DATA>
+   </COL>
+   <COL>
+    <DATA>DSCN7373 - Copie.JPG</DATA>
+   </COL>
+   <COL>
+    <DATA>C:/Users/Florian/Desktop/1004</DATA>
+   </COL>
+   <COL>
+    <DATA>04/12/2012 09:41:58</DATA>
+   </COL>
+  </ROW>
+  <ROW>
+   <COL>
+    <DATA>AUB0021</DATA>
+   </COL>
+   <COL>
+    <DATA>DSCN7373.JPG</DATA>
+   </COL>
+   <COL>
+    <DATA>C:/Users/Florian/Desktop/1004</DATA>
+   </COL>
+   <COL>
+    <DATA>04/12/2012 09:41:58</DATA>
+   </COL>
+  </ROW>
+  <ROW>
+   <COL>
+    <DATA>AUB0021</DATA>
+   </COL>
+   <COL>
+    <DATA>DSCN7374 - Copie (2).JPG</DATA>
+   </COL>
+   <COL>
+    <DATA>C:/Users/Florian/Desktop/1004</DATA>
+   </COL>
+   <COL>
+    <DATA>04/12/2012 09:42:18</DATA>
+   </COL>
+  </ROW>
+  <ROW>
+   <COL>
+    <DATA>AUB0021</DATA>
+   </COL>
+   <COL>
+    <DATA>DSCN7374 - Copie (3).JPG</DATA>
+   </COL>
+   <COL>
+    <DATA>C:/Users/Florian/Desktop/1004</DATA>
+   </COL>
+   <COL>
+    <DATA>04/12/2012 09:42:18</DATA>
+   </COL>
+  </ROW>
+  <ROW>
+   <COL>
+    <DATA>AUB0021</DATA>
+   </COL>
+   <COL>
+    <DATA>DSCN7374 - Copie (4).JPG</DATA>
+   </COL>
+   <COL>
+    <DATA>C:/Users/Florian/Desktop/1004</DATA>
+   </COL>
+   <COL>
+    <DATA>04/12/2012 09:42:18</DATA>
+   </COL>
+  </ROW>
+  <ROW>
+   <COL>
+    <DATA>AUB0021</DATA>
+   </COL>
+   <COL>
+    <DATA>DSCN7374 - Copie.JPG</DATA>
+   </COL>
+   <COL>
+    <DATA>C:/Users/Florian/Desktop/1004</DATA>
+   </COL>
+   <COL>
+    <DATA>04/12/2012 09:42:18</DATA>
+   </COL>
+  </ROW>
+  <ROW>
+   <COL>
+    <DATA>AUB0021</DATA>
+   </COL>
+   <COL>
+    <DATA>DSCN7374.JPG</DATA>
+   </COL>
+   <COL>
+    <DATA>C:/Users/Florian/Desktop/1004</DATA>
+   </COL>
+   <COL>
+    <DATA>04/12/2012 09:42:18</DATA>
+   </COL>
+  </ROW>
+  <ROW>
+   <COL>
+    <DATA>AUB0021</DATA>
+   </COL>
+   <COL>
+    <DATA>DSCN7375 - Copie (2).JPG</DATA>
+   </COL>
+   <COL>
+    <DATA>C:/Users/Florian/Desktop/1004</DATA>
+   </COL>
+   <COL>
+    <DATA>04/12/2012 09:42:22</DATA>
+   </COL>
+  </ROW>
+  <ROW>
+   <COL>
+    <DATA>AUB0021</DATA>
+   </COL>
+   <COL>
+    <DATA>DSCN7375 - Copie (3).JPG</DATA>
+   </COL>
+   <COL>
+    <DATA>C:/Users/Florian/Desktop/1004</DATA>
+   </COL>
+   <COL>
+    <DATA>04/12/2012 09:42:22</DATA>
+   </COL>
+  </ROW>
+  <ROW>
+   <COL>
+    <DATA>AUB0021</DATA>
+   </COL>
+   <COL>
+    <DATA>DSCN7375 - Copie (4).JPG</DATA>
+   </COL>
+   <COL>
+    <DATA>C:/Users/Florian/Desktop/1004</DATA>
+   </COL>
+   <COL>
+    <DATA>04/12/2012 09:42:22</DATA>
+   </COL>
+  </ROW>
+  <ROW>
+   <COL>
+    <DATA>AUB0021</DATA>
+   </COL>
+   <COL>
+    <DATA>DSCN7375 - Copie.JPG</DATA>
+   </COL>
+   <COL>
+    <DATA>C:/Users/Florian/Desktop/1004</DATA>
+   </COL>
+   <COL>
+    <DATA>04/12/2012 09:42:22</DATA>
+   </COL>
+  </ROW>
+  <ROW>
+   <COL>
+    <DATA>AUB0021</DATA>
+   </COL>
+   <COL>
+    <DATA>DSCN7375.JPG</DATA>
+   </COL>
+   <COL>
+    <DATA>C:/Users/Florian/Desktop/1004</DATA>
+   </COL>
+   <COL>
+    <DATA>04/12/2012 09:42:22</DATA>
+   </COL>
+  </ROW>
+  <ROW>
+   <COL>
+    <DATA>AUB0021</DATA>
+   </COL>
+   <COL>
+    <DATA>DSCN7376 - Copie (2).JPG</DATA>
+   </COL>
+   <COL>
+    <DATA>C:/Users/Florian/Desktop/1004</DATA>
+   </COL>
+   <COL>
+    <DATA>04/12/2012 09:42:28</DATA>
+   </COL>
+  </ROW>
+  <ROW>
+   <COL>
+    <DATA>AUB0021</DATA>
+   </COL>
+   <COL>
+    <DATA>DSCN7376 - Copie (3).JPG</DATA>
+   </COL>
+   <COL>
+    <DATA>C:/Users/Florian/Desktop/1004</DATA>
+   </COL>
+   <COL>
+    <DATA>04/12/2012 09:42:28</DATA>
+   </COL>
+  </ROW>
+  <ROW>
+   <COL>
+    <DATA>AUB0021</DATA>
+   </COL>
+   <COL>
+    <DATA>DSCN7376 - Copie (4).JPG</DATA>
+   </COL>
+   <COL>
+    <DATA>C:/Users/Florian/Desktop/1004</DATA>
+   </COL>
+   <COL>
+    <DATA>04/12/2012 09:42:28</DATA>
+   </COL>
+  </ROW>
+  <ROW>
+   <COL>
+    <DATA>AUB0021</DATA>
+   </COL>
+   <COL>
+    <DATA>DSCN7376 - Copie.JPG</DATA>
+   </COL>
+   <COL>
+    <DATA>C:/Users/Florian/Desktop/1004</DATA>
+   </COL>
+   <COL>
+    <DATA>04/12/2012 09:42:28</DATA>
+   </COL>
+  </ROW>
+  <ROW>
+   <COL>
+    <DATA>AUB0021</DATA>
+   </COL>
+   <COL>
+    <DATA>DSCN7376.JPG</DATA>
+   </COL>
+   <COL>
+    <DATA>C:/Users/Florian/Desktop/1004</DATA>
+   </COL>
+   <COL>
+    <DATA>04/12/2012 09:42:28</DATA>
+   </COL>
+  </ROW>
+  <ROW>
+   <COL>
+    <DATA>AUB0021</DATA>
+   </COL>
+   <COL>
+    <DATA>DSCN7377 - Copie (2).JPG</DATA>
+   </COL>
+   <COL>
+    <DATA>C:/Users/Florian/Desktop/1004</DATA>
+   </COL>
+   <COL>
+    <DATA>04/12/2012 09:59:04</DATA>
+   </COL>
+  </ROW>
+  <ROW>
+   <COL>
+    <DATA>AUB0021</DATA>
+   </COL>
+   <COL>
+    <DATA>DSCN7377 - Copie (3).JPG</DATA>
+   </COL>
+   <COL>
+    <DATA>C:/Users/Florian/Desktop/1004</DATA>
+   </COL>
+   <COL>
+    <DATA>04/12/2012 09:59:04</DATA>
+   </COL>
+  </ROW>
+  <ROW>
+   <COL>
+    <DATA>AUB0021</DATA>
+   </COL>
+   <COL>
+    <DATA>DSCN7377 - Copie (4).JPG</DATA>
+   </COL>
+   <COL>
+    <DATA>C:/Users/Florian/Desktop/1004</DATA>
+   </COL>
+   <COL>
+    <DATA>04/12/2012 09:59:04</DATA>
+   </COL>
+  </ROW>
+  <ROW>
+   <COL>
+    <DATA>AUB0021</DATA>
+   </COL>
+   <COL>
+    <DATA>DSCN7377 - Copie.JPG</DATA>
+   </COL>
+   <COL>
+    <DATA>C:/Users/Florian/Desktop/1004</DATA>
+   </COL>
+   <COL>
+    <DATA>04/12/2012 09:59:04</DATA>
+   </COL>
+  </ROW>
+  <ROW>
+   <COL>
+    <DATA>AUB0021</DATA>
+   </COL>
+   <COL>
+    <DATA>DSCN7377.JPG</DATA>
+   </COL>
+   <COL>
+    <DATA>C:/Users/Florian/Desktop/1004</DATA>
+   </COL>
+   <COL>
+    <DATA>04/12/2012 09:59:04</DATA>
+   </COL>
+  </ROW>
+  <ROW>
+   <COL>
+    <DATA>AUB0021</DATA>
+   </COL>
+   <COL>
+    <DATA>DSCN7378 - Copie (2).JPG</DATA>
+   </COL>
+   <COL>
+    <DATA>C:/Users/Florian/Desktop/1004</DATA>
+   </COL>
+   <COL>
+    <DATA>04/12/2012 09:59:51</DATA>
+   </COL>
+  </ROW>
+  <ROW>
+   <COL>
+    <DATA>AUB0021</DATA>
+   </COL>
+   <COL>
+    <DATA>DSCN7378 - Copie (3).JPG</DATA>
+   </COL>
+   <COL>
+    <DATA>C:/Users/Florian/Desktop/1004</DATA>
+   </COL>
+   <COL>
+    <DATA>04/12/2012 09:59:51</DATA>
+   </COL>
+  </ROW>
+  <ROW>
+   <COL>
+    <DATA>AUB0021</DATA>
+   </COL>
+   <COL>
+    <DATA>DSCN7378 - Copie (4).JPG</DATA>
+   </COL>
+   <COL>
+    <DATA>C:/Users/Florian/Desktop/1004</DATA>
+   </COL>
+   <COL>
+    <DATA>04/12/2012 09:59:51</DATA>
+   </COL>
+  </ROW>
+  <ROW>
+   <COL>
+    <DATA>AUB0021</DATA>
+   </COL>
+   <COL>
+    <DATA>DSCN7378 - Copie.JPG</DATA>
+   </COL>
+   <COL>
+    <DATA>C:/Users/Florian/Desktop/1004</DATA>
+   </COL>
+   <COL>
+    <DATA>04/12/2012 09:59:51</DATA>
+   </COL>
+  </ROW>
+  <ROW>
+   <COL>
+    <DATA>AUB0021</DATA>
+   </COL>
+   <COL>
+    <DATA>DSCN7378.JPG</DATA>
+   </COL>
+   <COL>
+    <DATA>C:/Users/Florian/Desktop/1004</DATA>
+   </COL>
+   <COL>
+    <DATA>04/12/2012 09:59:51</DATA>
+   </COL>
+  </ROW>
+  <ROW>
+   <COL>
+    <DATA>AUB0021</DATA>
+   </COL>
+   <COL>
+    <DATA>PB093674 - Copie (2).JPG</DATA>
+   </COL>
+   <COL>
+    <DATA>C:/Users/Florian/Desktop/1004</DATA>
+   </COL>
+   <COL>
+    <DATA>09/11/2012 10:04:51</DATA>
+   </COL>
+  </ROW>
+  <ROW>
+   <COL>
+    <DATA>AUB0021</DATA>
+   </COL>
+   <COL>
+    <DATA>PB093674 - Copie (3).JPG</DATA>
+   </COL>
+   <COL>
+    <DATA>C:/Users/Florian/Desktop/1004</DATA>
+   </COL>
+   <COL>
+    <DATA>09/11/2012 10:04:51</DATA>
+   </COL>
+  </ROW>
+  <ROW>
+   <COL>
+    <DATA>AUB0021</DATA>
+   </COL>
+   <COL>
+    <DATA>PB093674 - Copie (4).JPG</DATA>
+   </COL>
+   <COL>
+    <DATA>C:/Users/Florian/Desktop/1004</DATA>
+   </COL>
+   <COL>
+    <DATA>09/11/2012 10:04:51</DATA>
+   </COL>
+  </ROW>
+  <ROW>
+   <COL>
+    <DATA>AUB0021</DATA>
+   </COL>
+   <COL>
+    <DATA>PB093674 - Copie.JPG</DATA>
+   </COL>
+   <COL>
+    <DATA>C:/Users/Florian/Desktop/1004</DATA>
+   </COL>
+   <COL>
+    <DATA>09/11/2012 10:04:51</DATA>
+   </COL>
+  </ROW>
+  <ROW>
+   <COL>
+    <DATA>AUB0021</DATA>
+   </COL>
+   <COL>
+    <DATA>PB093674.JPG</DATA>
+   </COL>
+   <COL>
+    <DATA>C:/Users/Florian/Desktop/1004</DATA>
+   </COL>
+   <COL>
+    <DATA>09/11/2012 10:04:51</DATA>
+   </COL>
+  </ROW>
+  <ROW>
+   <COL>
+    <DATA>AUB0021</DATA>
+   </COL>
+   <COL>
+    <DATA>PB093675 - Copie (2).JPG</DATA>
+   </COL>
+   <COL>
+    <DATA>C:/Users/Florian/Desktop/1004</DATA>
+   </COL>
+   <COL>
+    <DATA>09/11/2012 10:05:54</DATA>
+   </COL>
+  </ROW>
+  <ROW>
+   <COL>
+    <DATA>AUB0021</DATA>
+   </COL>
+   <COL>
+    <DATA>PB093675 - Copie (3).JPG</DATA>
+   </COL>
+   <COL>
+    <DATA>C:/Users/Florian/Desktop/1004</DATA>
+   </COL>
+   <COL>
+    <DATA>09/11/2012 10:05:54</DATA>
+   </COL>
+  </ROW>
+  <ROW>
+   <COL>
+    <DATA>AUB0021</DATA>
+   </COL>
+   <COL>
+    <DATA>PB093675 - Copie (4).JPG</DATA>
+   </COL>
+   <COL>
+    <DATA>C:/Users/Florian/Desktop/1004</DATA>
+   </COL>
+   <COL>
+    <DATA>09/11/2012 10:05:54</DATA>
+   </COL>
+  </ROW>
+  <ROW>
+   <COL>
+    <DATA>AUB0021</DATA>
+   </COL>
+   <COL>
+    <DATA>PB093675 - Copie.JPG</DATA>
+   </COL>
+   <COL>
+    <DATA>C:/Users/Florian/Desktop/1004</DATA>
+   </COL>
+   <COL>
+    <DATA>09/11/2012 10:05:54</DATA>
+   </COL>
+  </ROW>
+  <ROW>
+   <COL>
+    <DATA>AUB0021</DATA>
+   </COL>
+   <COL>
+    <DATA>PB093675.JPG</DATA>
+   </COL>
+   <COL>
+    <DATA>C:/Users/Florian/Desktop/1004</DATA>
+   </COL>
+   <COL>
+    <DATA>09/11/2012 10:05:54</DATA>
+   </COL>
+  </ROW>
+  <ROW>
+   <COL>
+    <DATA>AUB0021</DATA>
+   </COL>
+   <COL>
+    <DATA>PB093676 - Copie (2).JPG</DATA>
+   </COL>
+   <COL>
+    <DATA>C:/Users/Florian/Desktop/1004</DATA>
+   </COL>
+   <COL>
+    <DATA>09/11/2012 10:13:45</DATA>
+   </COL>
+  </ROW>
+  <ROW>
+   <COL>
+    <DATA>AUB0021</DATA>
+   </COL>
+   <COL>
+    <DATA>PB093676 - Copie (3).JPG</DATA>
+   </COL>
+   <COL>
+    <DATA>C:/Users/Florian/Desktop/1004</DATA>
+   </COL>
+   <COL>
+    <DATA>09/11/2012 10:13:45</DATA>
+   </COL>
+  </ROW>
+  <ROW>
+   <COL>
+    <DATA>AUB0021</DATA>
+   </COL>
+   <COL>
+    <DATA>PB093676 - Copie (4).JPG</DATA>
+   </COL>
+   <COL>
+    <DATA>C:/Users/Florian/Desktop/1004</DATA>
+   </COL>
+   <COL>
+    <DATA>09/11/2012 10:13:45</DATA>
+   </COL>
+  </ROW>
+  <ROW>
+   <COL>
+    <DATA>AUB0021</DATA>
+   </COL>
+   <COL>
+    <DATA>PB093676 - Copie.JPG</DATA>
+   </COL>
+   <COL>
+    <DATA>C:/Users/Florian/Desktop/1004</DATA>
+   </COL>
+   <COL>
+    <DATA>09/11/2012 10:13:45</DATA>
+   </COL>
+  </ROW>
+  <ROW>
+   <COL>
+    <DATA>AUB0021</DATA>
+   </COL>
+   <COL>
+    <DATA>PB093676.JPG</DATA>
+   </COL>
+   <COL>
+    <DATA>C:/Users/Florian/Desktop/1004</DATA>
+   </COL>
+   <COL>
+    <DATA>09/11/2012 10:13:45</DATA>
+   </COL>
+  </ROW>
+  <ROW>
+   <COL>
+    <DATA>AUB0021</DATA>
+   </COL>
+   <COL>
+    <DATA>PB093677 - Copie (2).JPG</DATA>
+   </COL>
+   <COL>
+    <DATA>C:/Users/Florian/Desktop/1004</DATA>
+   </COL>
+   <COL>
+    <DATA>09/11/2012 10:13:55</DATA>
+   </COL>
+  </ROW>
+  <ROW>
+   <COL>
+    <DATA>AUB0021</DATA>
+   </COL>
+   <COL>
+    <DATA>PB093677 - Copie (3).JPG</DATA>
+   </COL>
+   <COL>
+    <DATA>C:/Users/Florian/Desktop/1004</DATA>
+   </COL>
+   <COL>
+    <DATA>09/11/2012 10:13:55</DATA>
+   </COL>
+  </ROW>
+  <ROW>
+   <COL>
+    <DATA>AUB0021</DATA>
+   </COL>
+   <COL>
+    <DATA>PB093677 - Copie (4).JPG</DATA>
+   </COL>
+   <COL>
+    <DATA>C:/Users/Florian/Desktop/1004</DATA>
+   </COL>
+   <COL>
+    <DATA>09/11/2012 10:13:55</DATA>
+   </COL>
+  </ROW>
+  <ROW>
+   <COL>
+    <DATA>AUB0021</DATA>
+   </COL>
+   <COL>
+    <DATA>PB093677 - Copie.JPG</DATA>
+   </COL>
+   <COL>
+    <DATA>C:/Users/Florian/Desktop/1004</DATA>
+   </COL>
+   <COL>
+    <DATA>09/11/2012 10:13:55</DATA>
+   </COL>
+  </ROW>
+  <ROW>
+   <COL>
+    <DATA>AUB0021</DATA>
+   </COL>
+   <COL>
+    <DATA>PB093677.JPG</DATA>
+   </COL>
+   <COL>
+    <DATA>C:/Users/Florian/Desktop/1004</DATA>
+   </COL>
+   <COL>
+    <DATA>09/11/2012 10:13:55</DATA>
+   </COL>
+  </ROW>
+  <ROW>
+   <COL>
+    <DATA>AUB0021</DATA>
+   </COL>
+   <COL>
+    <DATA>PB093678 - Copie (2).JPG</DATA>
+   </COL>
+   <COL>
+    <DATA>C:/Users/Florian/Desktop/1004</DATA>
+   </COL>
+   <COL>
+    <DATA>09/11/2012 10:14:09</DATA>
+   </COL>
+  </ROW>
+  <ROW>
+   <COL>
+    <DATA>AUB0021</DATA>
+   </COL>
+   <COL>
+    <DATA>PB093678 - Copie (3).JPG</DATA>
+   </COL>
+   <COL>
+    <DATA>C:/Users/Florian/Desktop/1004</DATA>
+   </COL>
+   <COL>
+    <DATA>09/11/2012 10:14:09</DATA>
+   </COL>
+  </ROW>
+  <ROW>
+   <COL>
+    <DATA>AUB0021</DATA>
+   </COL>
+   <COL>
+    <DATA>PB093678 - Copie (4).JPG</DATA>
+   </COL>
+   <COL>
+    <DATA>C:/Users/Florian/Desktop/1004</DATA>
+   </COL>
+   <COL>
+    <DATA>09/11/2012 10:14:09</DATA>
+   </COL>
+  </ROW>
+  <ROW>
+   <COL>
+    <DATA>AUB0021</DATA>
+   </COL>
+   <COL>
+    <DATA>PB093678 - Copie.JPG</DATA>
+   </COL>
+   <COL>
+    <DATA>C:/Users/Florian/Desktop/1004</DATA>
+   </COL>
+   <COL>
+    <DATA>09/11/2012 10:14:09</DATA>
+   </COL>
+  </ROW>
+  <ROW>
+   <COL>
+    <DATA>AUB0021</DATA>
+   </COL>
+   <COL>
+    <DATA>PB093678.JPG</DATA>
+   </COL>
+   <COL>
+    <DATA>C:/Users/Florian/Desktop/1004</DATA>
+   </COL>
+   <COL>
+    <DATA>09/11/2012 10:14:09</DATA>
+   </COL>
+  </ROW>
+  <ROW>
+   <COL>
+    <DATA>AUB0022</DATA>
+   </COL>
+   <COL>
+    <DATA>DSCN7358 - Copie (2).JPG</DATA>
+   </COL>
+   <COL>
+    <DATA>C:/Users/Florian/Desktop/1004 - Copie</DATA>
+   </COL>
+   <COL>
+    <DATA>04/12/2012 09:11:40</DATA>
+   </COL>
+  </ROW>
+  <ROW>
+   <COL>
+    <DATA>AUB0022</DATA>
+   </COL>
+   <COL>
+    <DATA>DSCN7358 - Copie (3).JPG</DATA>
+   </COL>
+   <COL>
+    <DATA>C:/Users/Florian/Desktop/1004 - Copie</DATA>
+   </COL>
+   <COL>
+    <DATA>04/12/2012 09:11:40</DATA>
+   </COL>
+  </ROW>
+  <ROW>
+   <COL>
+    <DATA>AUB0022</DATA>
+   </COL>
+   <COL>
+    <DATA>DSCN7358 - Copie (4).JPG</DATA>
+   </COL>
+   <COL>
+    <DATA>C:/Users/Florian/Desktop/1004 - Copie</DATA>
+   </COL>
+   <COL>
+    <DATA>04/12/2012 09:11:40</DATA>
+   </COL>
+  </ROW>
+  <ROW>
+   <COL>
+    <DATA>AUB0022</DATA>
+   </COL>
+   <COL>
+    <DATA>DSCN7358 - Copie.JPG</DATA>
+   </COL>
+   <COL>
+    <DATA>C:/Users/Florian/Desktop/1004 - Copie</DATA>
+   </COL>
+   <COL>
+    <DATA>04/12/2012 09:11:40</DATA>
+   </COL>
+  </ROW>
  </RESULTSET>
 </FMPXMLRESULT>
