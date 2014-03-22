@@ -1,13 +1,13 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <FMPXMLRESULT xmlns="http://www.filemaker.fr/fmpxmlresult">
  <ERRORCODE>0</ERRORCODE>
- <PRODUCT VERSION="7.0" NAME="FileMaker Pro" BUILD="23/5/2002"/>
+ <PRODUCT NAME="FileMaker Pro" BUILD="23/5/2002" VERSION="7.0"/>
  <DATABASE NAME="archeoextractor" DATEFORMAT="jj/MM/aaaa" TIMEFORMAT="hh:mm:ss" LAYOUT="archeoextractor"/>
  <METADATA>
-  <FIELD EMPTYOK="OUI" NAME="idUs" MAXREPEAT="1" TYPE="TEXTE"/>
-  <FIELD EMPTYOK="OUI" NAME="imgName" MAXREPEAT="1" TYPE="TEXTE"/>
-  <FIELD EMPTYOK="OUI" NAME="imgFolder" MAXREPEAT="1" TYPE="TEXTE"/>
-  <FIELD EMPTYOK="OUI" NAME="imgExif" MAXREPEAT="1" TYPE="TEXTE"/>
+  <FIELD NAME="idUs" MAXREPEAT="1" EMPTYOK="OUI" TYPE="TEXTE"/>
+  <FIELD NAME="imgName" MAXREPEAT="1" EMPTYOK="OUI" TYPE="TEXTE"/>
+  <FIELD NAME="imgFolder" MAXREPEAT="1" EMPTYOK="OUI" TYPE="TEXTE"/>
+  <FIELD NAME="imgExif" MAXREPEAT="1" EMPTYOK="OUI" TYPE="TEXTE"/>
  </METADATA>
  <RESULTSET>
   <ROW>
@@ -1875,6 +1875,62 @@
   <ROW>
    <COL>
     <DATA>AUB0022</DATA>
+   </COL>
+   <COL>
+    <DATA>DSCN7358 - Copie.JPG</DATA>
+   </COL>
+   <COL>
+    <DATA>C:/Users/Florian/Desktop/1004 - Copie</DATA>
+   </COL>
+   <COL>
+    <DATA>04/12/2012 09:11:40</DATA>
+   </COL>
+  </ROW>
+  <ROW>
+   <COL>
+    <DATA>AUB001</DATA>
+   </COL>
+   <COL>
+    <DATA>DSCN7358 - Copie (2).JPG</DATA>
+   </COL>
+   <COL>
+    <DATA>C:/Users/Florian/Desktop/1004 - Copie</DATA>
+   </COL>
+   <COL>
+    <DATA>04/12/2012 09:11:40</DATA>
+   </COL>
+  </ROW>
+  <ROW>
+   <COL>
+    <DATA>AUB001</DATA>
+   </COL>
+   <COL>
+    <DATA>DSCN7358 - Copie (3).JPG</DATA>
+   </COL>
+   <COL>
+    <DATA>C:/Users/Florian/Desktop/1004 - Copie</DATA>
+   </COL>
+   <COL>
+    <DATA>04/12/2012 09:11:40</DATA>
+   </COL>
+  </ROW>
+  <ROW>
+   <COL>
+    <DATA>AUB001</DATA>
+   </COL>
+   <COL>
+    <DATA>DSCN7358 - Copie (4).JPG</DATA>
+   </COL>
+   <COL>
+    <DATA>C:/Users/Florian/Desktop/1004 - Copie</DATA>
+   </COL>
+   <COL>
+    <DATA>04/12/2012 09:11:40</DATA>
+   </COL>
+  </ROW>
+  <ROW>
+   <COL>
+    <DATA>AUB001</DATA>
    </COL>
    <COL>
     <DATA>DSCN7358 - Copie.JPG</DATA>
